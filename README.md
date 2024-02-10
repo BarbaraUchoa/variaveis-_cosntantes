@@ -1,1 +1,1 @@
-Tranzendo lembretes de Python a memoria
+Trazendo lembretes de Python a memoria
